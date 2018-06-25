@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/OpenGL__ControlPLYObject/Debug
+/OpenGL__ControlPLYObject/Release
